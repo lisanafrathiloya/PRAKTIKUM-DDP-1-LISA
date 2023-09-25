@@ -1,5 +1,6 @@
 # PRAKTIKUM-DDP-1-LISA
-![Untitled Diagram drawio (1)](https://github.com/lisanafrathiloya/PRAKTIKUM-DDP-1-LISA/assets/144829981/0b39c811-8dbc-4a88-a975-45117d38022b)
+![Untitled Diagram drawio (2)](https://github.com/lisanafrathiloya/PRAKTIKUM-DDP-1-LISA/assets/144829981/4e95bd54-683a-4813-a1f2-eba5c579b049)
+
 
 1. Login Sederhana
    ![Login Sederhana](https://github.com/lisanafrathiloya/PRAKTIKUM-DDP-1-LISA/assets/144829981/5e648ceb-0edc-4626-bedb-aa5ec388b98e)
